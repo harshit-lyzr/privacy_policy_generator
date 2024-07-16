@@ -49,9 +49,11 @@ The Privacy Policy Generator leverages Lyzr Automata, a powerful tool for genera
 1. Input Details:
 
 Enter the company name, type, state of operation, and website in the respective fields.
+
 2. Generate Privacy Policy:
 
 Click on the "Generate" button to initiate the privacy policy generation process.
+
 3. View Output:
 
 The generated privacy policy will be displayed below the input fields.
